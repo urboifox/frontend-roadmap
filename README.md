@@ -388,6 +388,7 @@ frontend developer
 ### أدوات اضافية
 
 لازم تتابع الناس دي و تخلي دي الفيديوهات اللي في ال feed بتاعك، طريقة تفكيرك في الفرونت اند هتتغير
+
 [Oliver larose](https://www.youtube.com/@olivierlarose1)
 
 [Tom is loading](https://www.youtube.com/@tomisloading)
