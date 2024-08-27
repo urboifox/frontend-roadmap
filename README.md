@@ -54,9 +54,9 @@
 
 ### المصادر
 
-بالعربية: [Learn CSS In Arabic 2021](https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
+بالعربية: [Learn HTML In Arabic 2021](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 
-بالانجليزية: [CSS Tutorial – Full Course for Beginners](https://www.youtube.com/watch?v=OXGznpKZ_sA)
+بالانجليزية: [HTML Tutorial – Full Course for Beginners](https://www.youtube.com/watch?v=kUMe1FH4CHE)
 
 ### التطبيقات
 
