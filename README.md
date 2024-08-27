@@ -149,6 +149,7 @@
 [تكليفات javascript](https://elzero.org/category/assignments/javascript-bootcamp-assignments)
 
 موقعين مختلفين باستخدام ال javascript بالترتيب
+
 [الموقع الاول](https://www.youtube.com/watch?v=vedT2jk3hi4&list=PLDoPjvoNmBAzvmpzF-6l3tAviiCPbwkB8)
 
 [الموقع الثاني](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3)
