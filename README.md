@@ -54,6 +54,7 @@
 [تكليفات على css](https://elzero.org/category/assignments/css-assignments)
 
 ال 4 تطبيقات على html, css من قناة م اسامة الزيرو بالترتيب
+
 [تطبيق 1](https://www.youtube.com/watch?v=MBq8ZFEIIaQ&list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF)
 
 [تطبيق 2](https://www.youtube.com/watch?v=7_USXxmn7DM&list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t)
