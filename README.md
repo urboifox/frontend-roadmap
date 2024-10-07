@@ -298,7 +298,7 @@
 
 ### المصادر
 
-بالعربية: [كورس رياكت بالعربي](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdSZ-JayMLl4WO2Cr995vyS)
+بالعربية: [كورس رياكت بالعربي](https://youtube.com/playlist?list=PLpr1Lg_f0v3ojNKR4WzZ_SEXhiKBHDQmB&si=QbVNVkCkD_smEv35)
 
 بالانجليزية: [Beginner's tutorial for React](https://www.youtube.com/watch?v=bMknfKXIFA8&t=29s)
 
